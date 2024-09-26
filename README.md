@@ -2,7 +2,7 @@
 
 # Static Website Hosting on AWS S3
 
-This project provides a step-by-step guide on how to host a static website using Amazon S3.
+This project demonstrates how I hosted a static website on Amazon S3. By following the steps outlined below, I was able to create an S3 bucket, configured static website hosting, secured my bucket using IAM policies, uploaded my website files, and accessed my website via the S3 endpoint.
 
 ## Step 1: Creating the S3 Bucket
 
