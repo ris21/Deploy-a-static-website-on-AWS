@@ -1,3 +1,5 @@
+![Alt text]( index.html)
+
 # Static Website Hosting on AWS S3
 
 This project provides a step-by-step guide on how to host a static website using Amazon S3.
