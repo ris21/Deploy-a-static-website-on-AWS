@@ -1,4 +1,4 @@
-![Alt text]( index.html)
+![Alt text](Static.png.png)
 
 # Static Website Hosting on AWS S3
 
